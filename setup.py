@@ -160,5 +160,7 @@ setup(
         "lms.djangoapp": [
             "my_app = repo_name/apps.py:MyAppConfig",
         ],
+        "cms.djangoapp": [
+        ],
     }
 )
